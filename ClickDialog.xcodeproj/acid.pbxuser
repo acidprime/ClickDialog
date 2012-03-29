@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 394}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* ClickDialogAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 389}}";
+			sepNavSelRange = "{448, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* ClickDialogAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 689}}";
+			sepNavSelRange = "{1076, 0}";
+			sepNavVisRange = "{214, 912}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = E14873E0152427880086C7D5 /* ClickDialog */;
+		activeTarget = 8D1107260486CEB800E47090 /* ClickDialog */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ClickDialog */,
+		);
+		codeSenseManager = E14873EF1524278C0086C7D5 /* Code sense */;
+		executables = (
+			E14873E0152427880086C7D5 /* ClickDialog */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					641,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 354693111;
+			PBXWorkspaceStateSaveDate = 354693111;
+		};
+		perUserProjectItems = {
+			E148742A15242D400086C7D5 /* PBXTextBookmark */ = E148742A15242D400086C7D5 /* PBXTextBookmark */;
+			E148742C15242D400086C7D5 /* PBXTextBookmark */ = E148742C15242D400086C7D5 /* PBXTextBookmark */;
+			E17686C315242ECF0092E9E3 /* PBXTextBookmark */ = E17686C315242ECF0092E9E3 /* PBXTextBookmark */;
+			E17686D315242F610092E9E3 /* PBXTextBookmark */ = E17686D315242F610092E9E3 /* PBXTextBookmark */;
+			E17686D415242F610092E9E3 /* PlistBookmark */ = E17686D415242F610092E9E3 /* PlistBookmark */;
+			E17686DB15242FA80092E9E3 /* PBXTextBookmark */ = E17686DB15242FA80092E9E3 /* PBXTextBookmark */;
+			E17686F8152430790092E9E3 /* PBXTextBookmark */ = E17686F8152430790092E9E3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = E14873EE1524278C0086C7D5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {905, 555}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 241}";
+			sepNavWindowFrame = "{{15, 51}, {964, 691}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* ClickDialog */ = {
+		activeExec = 0;
+		executables = (
+			E14873E0152427880086C7D5 /* ClickDialog */,
+		);
+	};
+	E14873E0152427880086C7D5 /* ClickDialog */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ClickDialog;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	E14873EE1524278C0086C7D5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	E14873EF1524278C0086C7D5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E14873F4152428FA0086C7D5 /* web.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 389}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 845}";
+		};
+	};
+	E148742A15242D400086C7D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E148742B15242D400086C7D5 /* PasswordUtilityAppDelegate.m */;
+		name = "PasswordUtilityAppDelegate.m: 187";
+		rLen = 162;
+		rLoc = 6046;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 5843;
+	};
+	E148742B15242D400086C7D5 /* PasswordUtilityAppDelegate.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = PasswordUtilityAppDelegate.m;
+		path = /Users/acid/Documents/ESS/PasswordUtility/PasswordUtility/PasswordUtilityAppDelegate.m;
+		sourceTree = "<absolute>";
+	};
+	E148742C15242D400086C7D5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	E17686C315242ECF0092E9E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E14873F4152428FA0086C7D5 /* web.html */;
+		name = "web.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 845;
+		vrLoc = 0;
+	};
+	E17686D315242F610092E9E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ClickDialogAppDelegate.h */;
+		name = "ClickDialogAppDelegate.h: 21";
+		rLen = 0;
+		rLoc = 448;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	E17686D415242F610092E9E3 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ClickDialog-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSUIElement,
+		);
+		name = "/Users/acid/Desktop/ClickDialog/ClickDialog-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	E17686DB15242FA80092E9E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ClickDialogAppDelegate.m */;
+		name = "ClickDialogAppDelegate.m: 41";
+		rLen = 0;
+		rLoc = 1076;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 213;
+	};
+	E17686F8152430790092E9E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ClickDialogAppDelegate.m */;
+		name = "ClickDialogAppDelegate.m: 41";
+		rLen = 0;
+		rLoc = 1076;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 214;
+	};
+}

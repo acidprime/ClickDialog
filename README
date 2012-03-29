@@ -1,0 +1,12 @@
+This is a little Cocoa Dialog the loads and internal html file 
+it can be used as a front end for a shell script
+#!/bin/bash
+
+declare -x ClickDialog="/Applications/ClickDialog.app/Contents/MacOS/ClickDialog"
+if "$ClickDialog" ; then
+        echo "User clicked OK"
+else
+        echo "User clicked cancel"
+fi
+
+more later...
