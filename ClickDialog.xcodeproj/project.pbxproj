@@ -14,6 +14,7 @@
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 		E14873F5152428FA0086C7D5 /* web.html in Resources */ = {isa = PBXBuildFile; fileRef = E14873F4152428FA0086C7D5 /* web.html */; };
 		E14873FA152429F30086C7D5 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E14873F9152429F30086C7D5 /* WebKit.framework */; };
+		E1768714152431F20092E9E3 /* icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = E1768713152431F20092E9E3 /* icon.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		8D1107320486CEB800E47090 /* ClickDialog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClickDialog.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E14873F4152428FA0086C7D5 /* web.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = web.html; sourceTree = "<group>"; };
 		E14873F9152429F30086C7D5 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		E1768713152431F20092E9E3 /* icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = icon.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				8D1107320486CEB800E47090 /* ClickDialog.app */,
+				E1768713152431F20092E9E3 /* icon.icns */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -176,6 +179,7 @@
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
 				E14873F5152428FA0086C7D5 /* web.html in Resources */,
+				E1768714152431F20092E9E3 /* icon.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
